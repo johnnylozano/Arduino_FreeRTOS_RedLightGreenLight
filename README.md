@@ -31,8 +31,6 @@ This project involves creating a game environment based on the "Red Light – Gr
 
 ## Demo
 
-Here are some images demonstrating the project:
-
 <img src="demo/breadboard.jpg" alt="Photo 1" width="320"/>
 <img src="demo/setup.jpg" alt="Photo 2" width="320"/>
 <img src="demo/setup2.jpg" alt="Photo 3" width="320"/>
